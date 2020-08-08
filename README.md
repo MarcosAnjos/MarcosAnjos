@@ -1,5 +1,5 @@
 <h1 align = " center " > Olá amigo👋, sou Marcos Alexandre </ h1 >
-<h3 > 👨🏻‍💻 Sobre mim </ h3 >
+<h3 > 👨🏻‍💻 about me </ h3 >
 
 - 🕵‍♂ &nbsp; Explorando novas tecnologias e desenvolvimento de software.
 - 🎓 &nbsp; Estudante Ciência da Computação na Universidade Tecnológica Federal do Paraná - UTFPR.
