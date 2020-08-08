@@ -1,4 +1,4 @@
-<h1 align = " center " > Olá amigo👋, sou Marcos Alexandre </ h1 >
+<h1 align = " center " > Olá sou Marcos Alexandre </ h1 >
 <h3 > 👨🏻‍💻 About me </ h3 >
 
 - 🕵‍♂ &nbsp; Explorando novas tecnologias e desenvolvimento de software.
@@ -23,6 +23,7 @@
 
 <a href="mailto:marcosanjos@alunos.utfpr.edu.br"><img alt="Email" src="https://img.shields.io/badge/Email-marcosanjos@alunos.utfpr.edu.br-red?style=flat-square&logo=gmail"></a>
 </p>
+
 ⭐️ From [MarcosAnjos](https://github.com/MarcosAnjos)
 
 
