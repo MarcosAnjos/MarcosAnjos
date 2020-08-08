@@ -1,4 +1,4 @@
-<h1 align = " center " > Olá sou Marcos Alexandre </ h1 >
+<h1 align = " center " > Olá 👋 sou Marcos Alexandre </ h1 >
 <h3 > 👨🏻‍💻 About me </ h3 >
 
 - 🕵‍♂ &nbsp; Explorando novas tecnologias e desenvolvimento de software.
