@@ -10,10 +10,10 @@
   
 <h3> 🛠 Stack Technology </h3>
 
-- 💻 &nbsp; Java | CR (Estatística) 
+- 💻 &nbsp; Java | C |R (Estatística) 
 - 🌐 &nbsp; HTML | CSS JavaScript | Bootstrap | Node.js | ReactJS 
 - 🛢 &nbsp; PostgreSql 
-- 🔧 &nbsp; Git | Markdown
+- 🔧 &nbsp; Git | Markdown 
 
 
 <h3> 🤝🏻 Connect with Me</h3>
