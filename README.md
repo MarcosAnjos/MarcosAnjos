@@ -1,9 +1,8 @@
 <h1 align = " center " > Olá 👋 sou Marcos Alexandre </ h1 >
 <h3 > 👨🏻‍💻 About me </ h3 >
 
-<div align='center'>
-
-  🕵‍♂ &nbsp; Explorando novas tecnologias e desenvolvimento de software.
+<div align='left'>
+  🕵‍♂ &nbsp; Explorando novas tecnologias e desenvolvimento de software. </br>
   💼 &nbsp; Pesquisador/dev
 </div>
 
