@@ -20,6 +20,7 @@
       ]
       const email = 'marcosanjos@alunos.utfpr.edu.br'
       const linkedin = 'https://www.linkedin.com/in/marcos-alex/'
+      const website = 'https://www.pedometria.org/marcos-alexandre-dos-anjos/'
       
 ```
 
